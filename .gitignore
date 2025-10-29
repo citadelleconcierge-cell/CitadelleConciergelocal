@@ -1,0 +1,29 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Node / web
+node_modules/
+dist/
+build/
+.cache/
+*.log
+
+# Env & secrets
+.env
+.env.*
+*.local
+
+# Python (just in case)
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+coverage/
+
+# LM Studio / misc
+.lmstudio/
