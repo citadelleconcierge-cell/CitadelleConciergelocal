@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 c64c7d4801cf25815eeb895eadfd0a7872dc2b4d citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761560148 +0100	clone: from https://github.com/citadelleconcierge-cell/CCsite.git
+c64c7d4801cf25815eeb895eadfd0a7872dc2b4d 45fe69343fd278f3d909104242ac5b39907f0048 citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761561057 +0100	checkout: moving from main to codex/greet-the-user-89hwxe
+45fe69343fd278f3d909104242ac5b39907f0048 236c00fa64b681fba2370da2d5dfa5eb47a87e76 citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761567654 +0100	commit (merge): Merge remote-tracking branch 'origin/main' into codex/greet-the-user-89hwxe
+236c00fa64b681fba2370da2d5dfa5eb47a87e76 c64c7d4801cf25815eeb895eadfd0a7872dc2b4d citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761568416 +0100	checkout: moving from codex/greet-the-user-89hwxe to main
+c64c7d4801cf25815eeb895eadfd0a7872dc2b4d c64c7d4801cf25815eeb895eadfd0a7872dc2b4d citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761568838 +0100	checkout: moving from main to rebuild-cc-2025-10
+c64c7d4801cf25815eeb895eadfd0a7872dc2b4d c64c7d4801cf25815eeb895eadfd0a7872dc2b4d citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761572890 +0100	checkout: moving from rebuild-cc-2025-10 to main
+c64c7d4801cf25815eeb895eadfd0a7872dc2b4d 332c0a38196b3a320ccab590fbd0969af5e678f3 citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761573405 +0100	commit: prep
+332c0a38196b3a320ccab590fbd0969af5e678f3 2b5778b1821709533372d99ac814130ba2206544 citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761576862 +0100	checkout: moving from main to codex/create-next.js-15-project-scaffold
+2b5778b1821709533372d99ac814130ba2206544 14531df10a31c1fe038cd824c6f1530f91321efb citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761579151 +0100	commit: chore: pin Next14/React18 and add missing deps; dev boots
+14531df10a31c1fe038cd824c6f1530f91321efb 14531df10a31c1fe038cd824c6f1530f91321efb citadelleconcierge-cell <specter@fedora.home> 1761734739 +0100	reset: moving to HEAD
+14531df10a31c1fe038cd824c6f1530f91321efb 07a4cc81b5b6aaf9192cf315baf3326e7a94e2a1 citadelleconcierge-cell <specter@fedora.home> 1761734739 +0100	checkout: moving from codex/create-next.js-15-project-scaffold to codex/greet-the-user-89hwxe

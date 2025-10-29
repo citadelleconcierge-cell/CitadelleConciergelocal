@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#203832"/>
+  <ellipse cx="200" cy="340" rx="160" ry="220" fill="#3f6b58"/>
+  <ellipse cx="400" cy="360" rx="200" ry="180" fill="#2f5948"/>
+  <ellipse cx="600" cy="320" rx="150" ry="220" fill="#255040"/>
+  <rect x="120" y="420" width="560" height="80" rx="24" fill="#c5a572" opacity="0.82"/>
+  <text x="50%" y="120" text-anchor="middle" fill="#e9f2ee" font-family="'Segoe UI',sans-serif" font-size="52" font-weight="600">Garden refresh</text>
+  <text x="50%" y="176" text-anchor="middle" fill="#f4efe4" font-family="'Segoe UI',sans-serif" font-size="26">trim · irrigation · bloom</text>
+</svg>

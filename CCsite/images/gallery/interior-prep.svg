@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f3ede4"/>
+  <rect x="140" y="140" width="520" height="320" rx="40" fill="#ffffff" stroke="#c5a572" stroke-width="14"/>
+  <rect x="210" y="220" width="380" height="160" rx="26" fill="#0f1f2a" opacity="0.9"/>
+  <circle cx="400" cy="160" r="46" fill="#c5a572" opacity="0.85"/>
+  <text x="50%" y="108" text-anchor="middle" fill="#0f1f2a" font-family="'Segoe UI',sans-serif" font-size="40" font-weight="600">Concierge welcome</text>
+  <text x="50%" y="284" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI',sans-serif" font-size="30">staging · amenities</text>
+  <text x="50%" y="332" text-anchor="middle" fill="#d6c2a6" font-family="'Segoe UI',sans-serif" font-size="22">signature touches</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120">
+  <rect width="320" height="120" rx="16" fill="#0f1f2a"/>
+  <text x="50%" y="54" dominant-baseline="middle" text-anchor="middle" fill="#d6c2a6" font-family="'Segoe UI',sans-serif" font-size="44" font-weight="700">Citadelle</text>
+  <text x="50%" y="92" dominant-baseline="middle" text-anchor="middle" fill="#c5a572" font-family="'Segoe UI',sans-serif" font-size="28" font-weight="500">Concierge</text>
+</svg>

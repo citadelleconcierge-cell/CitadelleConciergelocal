@@ -1,0 +1,30 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = git@github.com:citadelleconcierge-cell/CCsite.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	vscode-merge-base = origin/main
+[lfs]
+	repositoryformatversion = 0
+[branch "codex/greet-the-user-89hwxe"]
+	remote = origin
+	merge = refs/heads/codex/greet-the-user-89hwxe
+	github-pr-owner-number = "citadelleconcierge-cell#CCsite#4"
+	vscode-merge-base = origin/main
+[branch "rebuild-cc-2025-10"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/rebuild-cc-2025-10
+[branch "codex/create-next.js-15-project-scaffold"]
+	remote = origin
+	merge = refs/heads/codex/create-next.js-15-project-scaffold
+	vscode-merge-base = origin/codex/create-next.js-15-project-scaffold
+	github-pr-owner-number = "citadelleconcierge-cell#CCsite#5"

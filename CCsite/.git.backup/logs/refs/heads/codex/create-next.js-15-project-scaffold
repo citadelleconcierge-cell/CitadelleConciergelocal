@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 2b5778b1821709533372d99ac814130ba2206544 citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761576862 +0100	branch: Created from origin/codex/create-next.js-15-project-scaffold
+2b5778b1821709533372d99ac814130ba2206544 14531df10a31c1fe038cd824c6f1530f91321efb citadelleconcierge-cell <citadelleconcierge@gmail.com> 1761579151 +0100	commit: chore: pin Next14/React18 and add missing deps; dev boots
